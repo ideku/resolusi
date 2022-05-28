@@ -1,0 +1,5 @@
+ideku resolusi
+- Belajar GIT
+- Belajar NodeJS
+- Belajar VueJS
+- Belajar RESTful API
