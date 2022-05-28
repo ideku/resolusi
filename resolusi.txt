@@ -3,4 +3,4 @@ ideku resolusi
 - Belajar NodeJS
 - Belajar VueJS
 - Belajar RESTful API
-- Belajar JavaScript
+- Belajar JWT
